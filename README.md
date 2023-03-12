@@ -31,16 +31,13 @@ Alternate Hypothesis: **There is a significant difference in the sell quantities
 
 The Test resulted in this statistical outcome:
 
-* p-value=0.3651829204
-* Significant: False
+* p-value=0.0015422405
+* Significant: True
 
-Because the p-value is greater than the alpha value (0.05), then we can **Fail to Reject** the Null Hypothesis of ***There is no significant difference in the sell quantity between the products with or without discount.***
+Because the p-value is lower than the alpha value (0.05), then we **Reject** the Null Hypothesis of **There is no significant difference in the sell quantity between the products with or without discount.**, Then ***There is a significant difference in the sell quantities between products with and without discount.***
 
 ## Summary
 
-Despite we can have some intuitive certainty about the there would be significant difference in the quantity of product that are sold with a sort of discount and those that not, in this case, for this specific data (population), that difference is not significant according to the Test performed in this project.
+As we have some intuitive certainty about that there would be significant difference in the quantity of product that are sold with a sort of discount and those that not, in this case, for this specific data (population), that difference is significant according to the Test performed in this project.
 
-That is, products with discount are sold the same (statistically speaking) that those that don't have any discount.
-
-That may be clearly seen in the graph above despite the two means are different, both distribution are similar.
-
+That is, product with discount are sold more (statistically speaking) that those that don't have any discount.
