@@ -32,6 +32,7 @@ Alternate Hypothesis: **There is a significant difference in the sell quantities
 The Test resulted in this statistical outcome:
 
 p-value=0.3651829204
+
 Significant: False
 
 Because the p-value is greater than the alpha value (0.05), then we can **Fail to Reject** the Null Hypothesis of ***There is no significant difference in the sell quantity between the products with or without discount.***
